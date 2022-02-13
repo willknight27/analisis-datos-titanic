@@ -29,7 +29,7 @@ pip install seaborn
 
 ## Opcional
 
-* Si hay errores al visualizar estilos en elas tablas ( style.background_gradient() )
+* Si hay errores al visualizar estilos en las tablas ( style.background_gradient() )
 
   ```
   pip install Jinja2
