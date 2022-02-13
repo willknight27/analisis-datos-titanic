@@ -26,3 +26,11 @@ pip install matplotlib
 ```
 pip install seaborn
 ```
+
+## Opcional
+
+* Si hay errores al visualizar estilos en elas tablas ( style.background_gradient() )
+
+  ```
+  pip install Jinja2
+  ```
