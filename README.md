@@ -27,6 +27,7 @@ pip install matplotlib
 pip install seaborn
 ```
 
+
 ## Opcional
 
 * Si hay errores al visualizar estilos en las tablas ( style.background_gradient() )
@@ -34,3 +35,10 @@ pip install seaborn
   ```
   pip install Jinja2
   ```
+
+* Para exportar csv a formato Excel 2010 (xlsx)
+
+  ```
+  pip install openpyxl
+  ```
+
